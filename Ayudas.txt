@@ -1,0 +1,5 @@
+http://www.camick.com/java/source/MessageConsole.java
+
+https://tips4java.wordpress.com/2008/11/08/message-console/
+
+https://www.mkyong.com/java/java-how-to-get-current-date-time-date-and-calender/
