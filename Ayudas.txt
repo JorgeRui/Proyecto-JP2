@@ -3,3 +3,11 @@ http://www.camick.com/java/source/MessageConsole.java
 https://tips4java.wordpress.com/2008/11/08/message-console/
 
 https://www.mkyong.com/java/java-how-to-get-current-date-time-date-and-calender/
+
+https://tecdigital.tec.ac.cr/revistamatematica/HERRAmInternet/Graficador-Swing-java2D/node3.html
+
+http://www.sc.ehu.es/sbweb/fisica/cursoJava/numerico/regresion/regresion.htm
+
+http://www.chuidiang.org/clinux/x11/graficos/coordenadas.php
+
+https://www.youtube.com/watch?v=Jgx1jWZcqz4
